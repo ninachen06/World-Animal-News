@@ -1,0 +1,94 @@
+
+body {
+background-color: black;
+}
+
+.b {
+    text-align: center;
+    letter-spacing: 5px;
+    text-shadow: 5px 5px purple;
+    font-weight: 600;
+    background-color: violet;
+    color: white;
+    height: 300px;
+    font-size: x-large;
+    font-family: 'Georgia', 'Franklin Gothic Medium', sans-serif;
+   }
+
+.a {
+    text-align: center;
+    padding: 50px;
+
+}
+
+.mn {
+   
+    column-gap: 3em;
+   
+    column-count: 3;
+    column-width: 250px;
+    text-align: justify;
+    word-spacing: 5px;
+    column-rule: 2px solid white;
+    color: white;
+    text-shadow: purple 7px 7px 7px;
+    font-family: "copperplate", 'fantasy';
+    background-color: violet;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-transform: capitalize;
+    line-height: 1.6;
+}
+
+.ml {
+width: 100%;
+}
+
+.a:visited {
+color: white;
+}
+
+.a:active {
+color: purple
+}
+
+.ll{
+    text-align: center;
+    background-color: black;
+    color: violet;
+    text-shadow: 1px 2px white;
+    font-size: x-large;
+    font-family: 'Georgia', 'Franklin Gothic Medium', sans-serif;
+    line-height: 0.8;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+
+.kl{
+text-indent: 20px;
+height: 200px;
+font-weight: 200px;
+}
+
+.s {
+    font-weight: 600;
+    background-color: black;
+    height: 100px;
+  
+}
+
+.t {
+    font-weight: 600;
+    background-color: black;
+    height: 60px;
+  
+}
+
+.mn:hover {
+    background-color: pink;
+    color: black;
+}
+
